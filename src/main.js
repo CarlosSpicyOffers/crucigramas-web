@@ -197,11 +197,18 @@ function generateNewPuzzle(wordCount, sourceWords) {
   renderClues(placed);
 }
 
+function applyGridCellSize(columns) {
+  const available = gridEl.parentElement.clientWidth || window.innerWidth - 32;
+  const cellSize = Math.max(18, Math.min(32, Math.floor(available / columns)));
+  gridEl.style.setProperty("--cell-size", `${cellSize}px`);
+  gridEl.style.gridTemplateColumns = `repeat(${columns}, var(--cell-size))`;
+}
+
 function renderGrid(placed, bounds) {
   const numbers = assignNumbers(placed);
   const columns = bounds.maxCol - bounds.minCol + 1;
 
-  gridEl.style.gridTemplateColumns = `repeat(${columns}, 32px)`;
+  applyGridCellSize(columns);
   gridEl.innerHTML = "";
 
   for (let r = bounds.minRow; r <= bounds.maxRow; r++) {
@@ -376,6 +383,11 @@ document.querySelector("#btn-generate").addEventListener("click", () => {
   const wordCount = parseInt(wordCountSelect.value, 10);
   closeNewCrosswordModal();
   generateNewPuzzle(wordCount, filtered);
+});
+
+window.addEventListener("resize", () => {
+  if (!currentBounds) return;
+  applyGridCellSize(currentBounds.maxCol - currentBounds.minCol + 1);
 });
 
 generateNewPuzzle(DEFAULT_WORD_COUNT, wordsData);

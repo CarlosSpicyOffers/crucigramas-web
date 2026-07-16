@@ -1,6 +1,17 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 :root {
   color-scheme: light dark;
   font-family: system-ui, sans-serif;
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -14,6 +25,12 @@ body {
 .page {
   width: 100%;
   max-width: 900px;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 1rem 0.75rem;
+  }
 }
 
 h1 {
@@ -52,18 +69,25 @@ button:hover {
   align-items: flex-start;
 }
 
+@media (max-width: 600px) {
+  .board {
+    gap: 1.25rem;
+  }
+}
+
 .grid {
   display: grid;
   gap: 1px;
   background: #000;
   border: 1px solid #000;
   width: fit-content;
+  max-width: 100%;
 }
 
 .cell {
   position: relative;
-  width: 32px;
-  height: 32px;
+  width: var(--cell-size, 32px);
+  height: var(--cell-size, 32px);
   background: #000;
 }
 
@@ -89,12 +113,11 @@ button:hover {
   height: 100%;
   border: none;
   text-align: center;
-  font-size: 16px;
+  font-size: clamp(11px, calc(var(--cell-size, 32px) * 0.5), 16px);
   font-weight: 700;
   text-transform: uppercase;
   background: transparent;
   color: #111;
-  box-sizing: border-box;
 }
 
 .cell-active input:focus {
@@ -142,8 +165,8 @@ button:hover {
   color: #111;
   border-radius: 8px;
   padding: 1.5rem;
-  min-width: 320px;
-  max-width: 420px;
+  width: 320px;
+  max-width: calc(100vw - 2rem);
   max-height: 85vh;
   overflow-y: auto;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
