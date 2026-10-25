@@ -69,6 +69,14 @@ const modalWarning = document.querySelector("#modal-warning");
 let currentPuzzle = null;
 let currentBounds = null;
 let activeDirection = "H";
+// True while the code itself moves focus (auto-advance / backspace), so the direction is kept.
+let programmaticFocus = false;
+
+function focusCell(input) {
+  programmaticFocus = true;
+  input.focus();
+  programmaticFocus = false;
+}
 
 populateWordCountOptions();
 renderCategoryCheckboxes();
@@ -243,11 +251,16 @@ function renderGrid(placed, bounds) {
 
         const words = wordsAtCell(currentPuzzle, r, c);
 
-        // A cell where both an across and a down word start defaults to across.
-        const startsBoth = words.H && words.V && words.H.index === 0 && words.V.index === 0;
-        if (startsBoth) {
-          activeDirection = "H";
-        } else if (!words[activeDirection]) {
+        // When the user lands on a cell, the word that starts there sets the direction
+        // (across wins if both start). Mid-word crossings keep the current direction.
+        if (!programmaticFocus) {
+          if (words.H && words.H.index === 0) {
+            activeDirection = "H";
+          } else if (words.V && words.V.index === 0) {
+            activeDirection = "V";
+          }
+        }
+        if (!words[activeDirection]) {
           activeDirection = words.H ? "H" : "V";
         }
       });
@@ -274,7 +287,7 @@ function renderGrid(placed, bounds) {
         if (prevInput) {
           prevInput.value = "";
           prevInput.closest(".cell").classList.remove("cell-correct", "cell-incorrect");
-          prevInput.focus();
+          focusCell(prevInput);
         }
       });
 
@@ -295,7 +308,7 @@ function renderGrid(placed, bounds) {
         const nextCol = activeDirection === "H" ? c + 1 : c;
         const nextInput = gridEl.querySelector(`input[data-row="${nextRow}"][data-col="${nextCol}"]`);
         if (nextInput) {
-          nextInput.focus();
+          focusCell(nextInput);
           // Select any existing letter so the next keystroke replaces it instead of being blocked by maxLength.
           nextInput.select();
         }
