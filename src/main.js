@@ -239,6 +239,8 @@ function renderGrid(placed, bounds) {
       input.autocomplete = "off";
 
       input.addEventListener("focus", () => {
+        input.select();
+
         const words = wordsAtCell(currentPuzzle, r, c);
 
         // A cell where both an across and a down word start defaults to across.
@@ -292,7 +294,11 @@ function renderGrid(placed, bounds) {
         const nextRow = activeDirection === "H" ? r : r + 1;
         const nextCol = activeDirection === "H" ? c + 1 : c;
         const nextInput = gridEl.querySelector(`input[data-row="${nextRow}"][data-col="${nextCol}"]`);
-        if (nextInput) nextInput.focus();
+        if (nextInput) {
+          nextInput.focus();
+          // Select any existing letter so the next keystroke replaces it instead of being blocked by maxLength.
+          nextInput.select();
+        }
       });
 
       cell.appendChild(input);
