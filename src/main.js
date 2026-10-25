@@ -26,7 +26,7 @@ const app = document.querySelector("#app");
 
 app.innerHTML = `
   <div class="page">
-    <h1>Crossword</h1>
+    <h1>Crossword!</h1>
     <div class="toolbar">
       <button id="btn-new">New crossword</button>
       <button id="btn-check">Check answers</button>
@@ -214,9 +214,29 @@ function generateNewPuzzle(wordCount, sourceWords) {
 
 function applyGridCellSize(columns) {
   const available = gridEl.parentElement.clientWidth || window.innerWidth - 32;
-  const cellSize = Math.max(18, Math.min(32, Math.floor(available / columns)));
+  const gap = parseFloat(getComputedStyle(gridEl).columnGap) || 0;
+  const cellSize = Math.max(16, Math.min(36, Math.floor((available - (columns - 1) * gap) / columns)));
   gridEl.style.setProperty("--cell-size", `${cellSize}px`);
   gridEl.style.gridTemplateColumns = `repeat(${columns}, var(--cell-size))`;
+}
+
+function clearWordHighlight() {
+  gridEl.querySelectorAll(".cell-word").forEach((el) => el.classList.remove("cell-word"));
+}
+
+// Tint every cell of the word being typed (the one in activeDirection through cell r,c).
+function highlightActiveWord(r, c) {
+  clearWordHighlight();
+
+  const word = wordsAtCell(currentPuzzle, r, c)[activeDirection];
+  if (!word) return;
+
+  for (let i = 0; i < word.word.length; i++) {
+    const row = word.direction === "H" ? word.row : word.row + i;
+    const col = word.direction === "H" ? word.col + i : word.col;
+    const input = gridEl.querySelector(`input[data-row="${row}"][data-col="${col}"]`);
+    if (input) input.closest(".cell").classList.add("cell-word");
+  }
 }
 
 function renderGrid(placed, bounds) {
@@ -270,6 +290,8 @@ function renderGrid(placed, bounds) {
         if (!words[activeDirection]) {
           activeDirection = words.H ? "H" : "V";
         }
+
+        highlightActiveWord(r, c);
       });
 
       input.addEventListener("keydown", (e) => {
@@ -339,7 +361,7 @@ function renderClues(placed) {
     .sort((a, b) => a.number - b.number || (a.direction === "Across" ? -1 : 1));
 
   cluesEl.innerHTML = list
-    .map((item) => `<li><strong>${item.number} (${item.direction}).</strong> ${item.definition}</li>`)
+    .map((item) => `<li><span class="clue-number">${item.number}</span><span><span class="clue-direction">${item.direction}</span>${item.definition}</span></li>`)
     .join("");
 }
 
@@ -411,10 +433,16 @@ document.querySelector("#btn-generate").addEventListener("click", () => {
   generateNewPuzzle(wordCount, filtered);
 });
 
-window.addEventListener("resize", () => {
+// Drop the word highlight once focus leaves the grid (moving between cells keeps it).
+gridEl.addEventListener("focusout", (e) => {
+  if (!gridEl.contains(e.relatedTarget)) clearWordHighlight();
+});
+
+// Re-fit the cells whenever the board's width changes (rotation, window resize, late layout).
+new ResizeObserver(() => {
   if (!currentBounds) return;
   applyGridCellSize(currentBounds.maxCol - currentBounds.minCol + 1);
-});
+}).observe(gridEl.parentElement);
 
 // First puzzle uses the same books that are ticked by default in the menu.
 const defaultWords = wordsData.filter((w) => DEFAULT_BOOKS.includes(w.book));
