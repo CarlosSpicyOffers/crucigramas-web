@@ -9,7 +9,7 @@ import {
   wordsAtCell,
 } from "./crossword.js";
 
-const DEFAULT_WORD_COUNT = 12;
+const DEFAULT_WORD_COUNT = 8;
 const MIN_WORD_COUNT = 8;
 const MAX_WORD_COUNT = 20;
 
