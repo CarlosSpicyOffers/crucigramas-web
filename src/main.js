@@ -17,6 +17,9 @@ const availableWordCount = wordsData.filter((w) => w.word.indexOf(" ") === -1).l
 const minCount = Math.min(MIN_WORD_COUNT, availableWordCount);
 const maxCount = Math.min(MAX_WORD_COUNT, availableWordCount);
 
+// Books listed first in the menu and ticked by default (the rest start unticked).
+const DEFAULT_BOOKS = ["Speak Out B2+"];
+
 const categories = getCategories(wordsData);
 
 const app = document.querySelector("#app");
@@ -99,6 +102,10 @@ function getCategories(words) {
     }
   });
 
+  // Default books first; Array.sort is stable, so the rest keep their order of appearance.
+  const rank = (b) => (DEFAULT_BOOKS.includes(b) ? 0 : 1);
+  books.sort((a, b) => rank(a) - rank(b));
+
   return { books, topics };
 }
 
@@ -126,7 +133,7 @@ function renderCategoryCheckboxes() {
     bookCheckbox.type = "checkbox";
     bookCheckbox.className = "book-checkbox";
     bookCheckbox.dataset.book = book;
-    bookCheckbox.checked = true;
+    bookCheckbox.checked = DEFAULT_BOOKS.includes(book);
     bookCheckbox.addEventListener("change", () => {
       booksContainer.querySelectorAll(`.topic-checkbox[data-book="${cssEscape(book)}"]`).forEach((cb) => {
         cb.checked = bookCheckbox.checked;
@@ -151,7 +158,7 @@ function renderCategoryCheckboxes() {
         topicCheckbox.className = "topic-checkbox";
         topicCheckbox.dataset.book = book;
         topicCheckbox.dataset.topic = t.topic;
-        topicCheckbox.checked = true;
+        topicCheckbox.checked = DEFAULT_BOOKS.includes(book);
         topicCheckbox.addEventListener("change", () => {
           const topicCheckboxes = booksContainer.querySelectorAll(`.topic-checkbox[data-book="${cssEscape(book)}"]`);
           const anyChecked = Array.from(topicCheckboxes).some((cb) => cb.checked);
@@ -409,4 +416,6 @@ window.addEventListener("resize", () => {
   applyGridCellSize(currentBounds.maxCol - currentBounds.minCol + 1);
 });
 
-generateNewPuzzle(DEFAULT_WORD_COUNT, wordsData);
+// First puzzle uses the same books that are ticked by default in the menu.
+const defaultWords = wordsData.filter((w) => DEFAULT_BOOKS.includes(w.book));
+generateNewPuzzle(DEFAULT_WORD_COUNT, defaultWords.length > 0 ? defaultWords : wordsData);
