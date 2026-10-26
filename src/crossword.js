@@ -17,10 +17,32 @@ export function selectRandomWords(words, quantity) {
 }
 
 
+// Number of layouts tried per crossword; the best one wins.
+const ATTEMPTS = 60;
+
 export function generateCrossword(words) {
 
-  // Start with the longest word: it anchors the puzzle and makes it easier for the rest to cross it.
-  const pending = words.slice().sort((a, b) => b.word.length - a.word.length);
+  // Every attempt builds a different layout (word order is jittered); keep the best one:
+  // first the one that places the most words, then the most crossings, then the most compact.
+  let best = null;
+
+  for (let attempt = 0; attempt < ATTEMPTS; attempt++) {
+    const result = buildLayout(words);
+    if (!best || result.score > best.score) best = result;
+  }
+
+  return { placed: best.placed, discarded: best.discarded };
+
+}
+
+
+function buildLayout(words) {
+
+  // Longest words first (with a little randomness): the first one anchors the puzzle.
+  const pending = words
+    .map((w) => ({ w, key: w.word.length + Math.random() * 3 }))
+    .sort((a, b) => b.key - a.key)
+    .map((x) => x.w);
 
   const grid = {};
   const placed = [];
@@ -29,30 +51,47 @@ export function generateCrossword(words) {
   placeInGrid(grid, first.word, 0, 0, "H");
   placed.push({ word: first.word, definition: first.definition, row: 0, col: 0, direction: "H" });
 
-  // Try the rest one by one. If a word doesn't fit yet, we retry it later, since it might
-  // cross with another word that hasn't been placed yet.
-  let attemptsWithoutSuccess = 0;
+  // Each round, look at every pending word in every spot where it fits and take the placement
+  // that crosses the most letters already on the grid (ties: keep the grid compact, then random).
+  while (pending.length > 0) {
+    const bounds = gridBounds(placed);
+    let best = null;
 
-  while (pending.length > 0 && attemptsWithoutSuccess < pending.length) {
-    const candidate = pending.shift();
-    const position = findPosition(grid, candidate.word);
+    pending.forEach((candidate, index) => {
+      for (const position of candidatePositions(grid, candidate.word)) {
+        const area = areaAfter(bounds, candidate.word, position);
+        const better = !best
+          || position.crossings > best.position.crossings
+          || (position.crossings === best.position.crossings && area < best.area)
+          || (position.crossings === best.position.crossings && area === best.area && Math.random() < 0.5);
+        if (better) best = { index, position, area };
+      }
+    });
 
-    if (position) {
-      placeInGrid(grid, candidate.word, position.row, position.col, position.direction);
-      placed.push({ word: candidate.word, definition: candidate.definition, row: position.row, col: position.col, direction: position.direction });
-      attemptsWithoutSuccess = 0;
-    } else {
-      pending.push(candidate);
-      attemptsWithoutSuccess++;
-    }
+    // Nothing left fits (no shared letter, or no free room).
+    if (!best) break;
+
+    const [chosen] = pending.splice(best.index, 1);
+    const { row, col, direction } = best.position;
+    placeInGrid(grid, chosen.word, row, col, direction);
+    placed.push({ word: chosen.word, definition: chosen.definition, row, col, direction });
   }
 
-  return { placed, discarded: pending };
+  const crossings = Object.values(grid).filter((cell) => cell.h && cell.v).length;
+  const b = gridBounds(placed);
+  const area = (b.maxRow - b.minRow + 1) * (b.maxCol - b.minCol + 1);
+
+  return { placed, discarded: pending, score: placed.length * 10000 + crossings * 100 - area };
 
 }
 
 
-function findPosition(grid, word) {
+// Every valid position for the word that crosses at least one letter already on the grid,
+// with the number of letters it would share with words already there.
+function candidatePositions(grid, word) {
+
+  const positions = [];
+  const seen = new Set();
 
   for (const key in grid) {
     const cell = grid[key];
@@ -64,19 +103,43 @@ function findPosition(grid, word) {
       if (word.charAt(i) !== cell.letter) continue;
 
       // The cell already holds a horizontal word: try crossing it vertically.
-      if (!cell.v) {
-        const positionV = { row: cellRow - i, col: cellCol, direction: "V" };
-        if (fitsInGrid(grid, word, positionV)) return positionV;
-      }
+      if (!cell.v) tryPosition({ row: cellRow - i, col: cellCol, direction: "V" });
       // The cell already holds a vertical word: try crossing it horizontally.
-      if (!cell.h) {
-        const positionH = { row: cellRow, col: cellCol - i, direction: "H" };
-        if (fitsInGrid(grid, word, positionH)) return positionH;
-      }
+      if (!cell.h) tryPosition({ row: cellRow, col: cellCol - i, direction: "H" });
     }
   }
 
-  return null;
+  function tryPosition(position) {
+    const id = position.row + "_" + position.col + "_" + position.direction;
+    if (seen.has(id)) return;
+    seen.add(id);
+
+    if (!fitsInGrid(grid, word, position)) return;
+
+    let crossings = 0;
+    for (let i = 0; i < word.length; i++) {
+      const r = position.direction === "H" ? position.row : position.row + i;
+      const c = position.direction === "H" ? position.col + i : position.col;
+      if (grid[r + "_" + c]) crossings++;
+    }
+    positions.push({ ...position, crossings });
+  }
+
+  return positions;
+
+}
+
+
+// Bounding-box area of the grid if the word were placed at the given position.
+function areaAfter(bounds, word, position) {
+
+  const endRow = position.direction === "V" ? position.row + word.length - 1 : position.row;
+  const endCol = position.direction === "H" ? position.col + word.length - 1 : position.col;
+
+  const rows = Math.max(bounds.maxRow, endRow) - Math.min(bounds.minRow, position.row) + 1;
+  const cols = Math.max(bounds.maxCol, endCol) - Math.min(bounds.minCol, position.col) + 1;
+
+  return rows * cols;
 
 }
 

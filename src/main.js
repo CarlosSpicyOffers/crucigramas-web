@@ -26,7 +26,7 @@ const app = document.querySelector("#app");
 
 app.innerHTML = `
   <div class="page">
-    <h1>Crossword!</h1>
+    <h1>English Crossword!</h1>
     <div class="toolbar">
       <button id="btn-new">New crossword</button>
       <button id="btn-check">Check answers</button>
