@@ -2437,6 +2437,54 @@
   },
   {
     "book": "Speak Out B2+",
+    "topic": "Vocabulary 1A: Relationships",
+    "word": "socialise with",
+    "definition": "spend time with someone in a friendly way"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1A: Relationships",
+    "word": "party with",
+    "definition": "go out and enjoy yourself with other people, for example dancing"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1A: Relationships",
+    "word": "on the same wavelength",
+    "definition": "having similar opinions and ways of thinking to someone"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1A: Relationships",
+    "word": "click with",
+    "definition": "like and understand someone immediately"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1A: Relationships",
+    "word": "have a mutual friend",
+    "definition": "know the same person as someone else"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1A: Relationships",
+    "word": "bond over",
+    "definition": "develop a close connection with someone through a shared interest"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1A: Relationships",
+    "word": "confide in",
+    "definition": "tell someone personal things you want to keep secret"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1A: Relationships",
+    "word": "hit it off with",
+    "definition": "immediately like someone and get on well with them"
+  },
+  {
+    "book": "Speak Out B2+",
     "topic": "Vocabulary 1A: Phrasal verbs: friendships",
     "word": "invite along",
     "definition": "ask someone to go with you somewhere"
@@ -2494,6 +2542,54 @@
     "topic": "Vocabulary 1A: Phrasal verbs: friendships",
     "word": "take to",
     "definition": "start to like"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1B: Transforming places",
+    "word": "demolish",
+    "definition": "to destroy a building completely"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1B: Transforming places",
+    "word": "modernise",
+    "definition": "to make something more modern and up to date"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1B: Transforming places",
+    "word": "build in",
+    "definition": "to include something as part of a plan or design"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1B: Transforming places",
+    "word": "merge",
+    "definition": "to join things together so they become one"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1B: Transforming places",
+    "word": "spruce up",
+    "definition": "to make a place look cleaner and neater"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1B: Transforming places",
+    "word": "refurbish",
+    "definition": "to clean, repair and decorate a building so it looks new"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1B: Transforming places",
+    "word": "restore",
+    "definition": "to bring something back to its original good condition"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1B: Transforming places",
+    "word": "reconstruct",
+    "definition": "to build something again after it was damaged or destroyed"
   },
   {
     "book": "Speak Out B2+",
@@ -2557,50 +2653,2564 @@
   },
   {
     "book": "Speak Out B2+",
-    "topic": "Vocabulary 1B: Transforming places",
-    "word": "demolish",
-    "definition": "to destroy a building completely"
+    "topic": "Vocabulary 1C: Idiomatic phrases: hobbies and interests",
+    "word": "can't get enough of",
+    "definition": "want to experience something more and more"
   },
   {
     "book": "Speak Out B2+",
-    "topic": "Vocabulary 1B: Transforming places",
-    "word": "modernise",
-    "definition": "to make something more modern and up to date"
+    "topic": "Vocabulary 1C: Idiomatic phrases: hobbies and interests",
+    "word": "once-in-a-lifetime",
+    "definition": "describing something very special that you will probably never do again"
   },
   {
     "book": "Speak Out B2+",
-    "topic": "Vocabulary 1B: Transforming places",
-    "word": "build in",
-    "definition": "to include something as part of a plan or design"
+    "topic": "Vocabulary 1C: Idiomatic phrases: hobbies and interests",
+    "word": "adrenalin rush",
+    "definition": "a very strong feeling of excitement from doing something thrilling"
   },
   {
     "book": "Speak Out B2+",
-    "topic": "Vocabulary 1B: Transforming places",
-    "word": "merge",
-    "definition": "to join things together so they become one"
+    "topic": "Vocabulary 1C: Idiomatic phrases: hobbies and interests",
+    "word": "have the time of your life",
+    "definition": "enjoy yourself a lot"
   },
   {
     "book": "Speak Out B2+",
-    "topic": "Vocabulary 1B: Transforming places",
-    "word": "spruce up",
-    "definition": "to make a place look cleaner and neater"
+    "topic": "Vocabulary 1C: Idiomatic phrases: hobbies and interests",
+    "word": "be blown away",
+    "definition": "enjoy something a lot because it is so impressive"
   },
   {
     "book": "Speak Out B2+",
-    "topic": "Vocabulary 1B: Transforming places",
-    "word": "refurbish",
-    "definition": "to clean, repair and decorate a building so it looks new"
+    "topic": "Vocabulary 1C: Idiomatic phrases: hobbies and interests",
+    "word": "lose track of time",
+    "definition": "forget what time it is"
   },
   {
     "book": "Speak Out B2+",
-    "topic": "Vocabulary 1B: Transforming places",
-    "word": "restore",
-    "definition": "to bring something back to its original good condition"
+    "topic": "Vocabulary 1C: Idiomatic phrases: hobbies and interests",
+    "word": "get stuck in",
+    "definition": "take part in an activity enthusiastically"
   },
   {
     "book": "Speak Out B2+",
-    "topic": "Vocabulary 1B: Transforming places",
-    "word": "reconstruct",
-    "definition": "to build something again after it was damaged or destroyed"
+    "topic": "Vocabulary 1C: Idiomatic phrases: hobbies and interests",
+    "word": "lose yourself in",
+    "definition": "concentrate on something completely and forget about everything else"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1C: Idiomatic phrases: hobbies and interests",
+    "word": "be into",
+    "definition": "be very interested in and enjoy a particular activity"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "oily",
+    "definition": "covered in fat from cooking or from the food itself"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "spicy",
+    "definition": "with a strong taste that gives a pleasant burning feeling in your mouth"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "rich",
+    "definition": "containing a lot of butter, eggs or cream"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "incredible",
+    "definition": "very good, often in an unexpected way"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "melted",
+    "definition": "made soft by heat"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "filling",
+    "definition": "describing food that makes you feel full"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "buttery",
+    "definition": "tasting of or containing the soft yellow dairy spread"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "cheesy",
+    "definition": "tasting of or containing a food made from pressed milk curds"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "creamy",
+    "definition": "smooth and thick, like the rich white part of milk"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "doughy",
+    "definition": "soft and heavy like uncooked bread mixture"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "fruity",
+    "definition": "tasting or smelling of apples, oranges, berries and similar sweet foods"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "juicy",
+    "definition": "full of liquid that comes out when you bite or squeeze it"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "lemony",
+    "definition": "tasting or smelling of a sour yellow citrus fruit"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "minty",
+    "definition": "tasting or smelling of a fresh green herb used in sweets and toothpaste"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "nutty",
+    "definition": "tasting of or containing hard-shelled seeds such as almonds"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "peppery",
+    "definition": "tasting hot and sharp, like the black powder used on food"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "salty",
+    "definition": "containing or tasting of a lot of the white seasoning from the sea"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 1D: The taste and appeal of food",
+    "word": "sugary",
+    "definition": "very sweet or containing a lot of the sweet white crystals"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "win at all costs",
+    "definition": "to do anything in order to win"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "con",
+    "definition": "to deceive and mislead someone"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "let win",
+    "definition": "to allow another person to win a game"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "get away with",
+    "definition": "to do something bad and not be punished for it"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "hold your head up",
+    "definition": "to feel proud of something you have done or achieved"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "not the done thing",
+    "definition": "inappropriate and frowned on by others"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "play fair",
+    "definition": "to follow the rules in a game"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "come out on top",
+    "definition": "to win in a game or competition"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "disgraceful",
+    "definition": "describing something shockingly unacceptable"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "fake",
+    "definition": "to pretend something happens in order to mislead someone"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "underdog",
+    "definition": "a person or team that is not expected to win"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "favourite",
+    "definition": "a person or team that is expected to win"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "dive",
+    "definition": "to fall on purpose to trick the referee into giving a penalty"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "play for time",
+    "definition": "to delay things on purpose, for example near the end of a game"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "put off",
+    "definition": "to distract someone so that they play badly"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "bend the rules",
+    "definition": "to cheat a little without clearly breaking regulations"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "unbeaten",
+    "definition": "describing someone who hasn't lost for a long time"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2A: Idioms: winning and losing",
+    "word": "concede",
+    "definition": "to admit that you have lost"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2B: Industry competition",
+    "word": "bitter rivals",
+    "definition": "companies or people competing fiercely in the same industry"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2B: Industry competition",
+    "word": "adversary",
+    "definition": "an opponent in a competition or industry"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2B: Industry competition",
+    "word": "form an alliance",
+    "definition": "to build a relationship with another company or group"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2B: Industry competition",
+    "word": "forge partnerships",
+    "definition": "to build working relationships with other organisations"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2B: Industry competition",
+    "word": "outdo",
+    "definition": "to be better than someone else"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2B: Industry competition",
+    "word": "gain a competitive edge",
+    "definition": "to get an advantage over others"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2B: Industry competition",
+    "word": "collaboration",
+    "definition": "working together with others to achieve something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2B: Industry competition",
+    "word": "cooperation",
+    "definition": "willingness to help and work with others towards a shared aim"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2B: Industry competition",
+    "word": "push beyond your limits",
+    "definition": "to go further than you thought you were capable of"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2B: Industry competition",
+    "word": "fulfil your potential",
+    "definition": "to reach the level of success you are capable of"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Business",
+    "word": "efficiency",
+    "definition": "doing something well without wasting time, money or energy"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Business",
+    "word": "productivity",
+    "definition": "the rate at which goods or services are made compared with the effort spent"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Business",
+    "word": "bankruptcy",
+    "definition": "the state of being unable to pay back what you owe"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Business",
+    "word": "turnover",
+    "definition": "the value of goods or services a company sells"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Business",
+    "word": "initiative",
+    "definition": "an important new plan"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Business",
+    "word": "competitiveness",
+    "definition": "the ability to take on rivals successfully"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Business",
+    "word": "profitability",
+    "definition": "the ability to earn more money than is spent"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Business",
+    "word": "cutback",
+    "definition": "a reduction in something, such as staff numbers or spending"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "job perks",
+    "definition": "extra benefits you get from your employer in addition to your salary"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "equal pay",
+    "definition": "the same salary for everyone who does the same job"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "health insurance",
+    "definition": "cover for the costs of all your medical needs"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "pension scheme",
+    "definition": "a plan that provides you with money to live on when you retire"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "maternity leave",
+    "definition": "extra time off work for new mothers to be with their babies"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "paternity leave",
+    "definition": "extra time off work for new fathers to be with their babies"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "on-site childcare",
+    "definition": "a place at your workplace where parents can safely leave their kids"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "financial incentive",
+    "definition": "extra money that motivates you to work"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "bonus scheme",
+    "definition": "a plan where staff receive a sum of money depending on company profits"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "tuition assistance",
+    "definition": "help with paying for a formal course related to your work"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2C: Work benefits",
+    "word": "mentor programme",
+    "definition": "a scheme pairing a new employee with an experienced one for help"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2D: Competing",
+    "word": "inside and out",
+    "definition": "completely, knowing every detail"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2D: Competing",
+    "word": "take in",
+    "definition": "to understand and remember a lot of information"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2D: Competing",
+    "word": "round",
+    "definition": "one of the separate parts of a contest"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2D: Competing",
+    "word": "best of three",
+    "definition": "a contest where the first to win two rounds wins overall"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2D: Competing",
+    "word": "kick in",
+    "definition": "to begin to have an effect, as nerves do"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2D: Competing",
+    "word": "neck and neck",
+    "definition": "level with an opponent in a race"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2D: Competing",
+    "word": "come down to",
+    "definition": "to be decided by one main factor"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 2D: Competing",
+    "word": "take it",
+    "definition": "to react to a result or bad news in a certain way"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "eager",
+    "definition": "very keen and excited to do something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "frustrating",
+    "definition": "annoying because things do not work out as you want"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "overwhelming",
+    "definition": "far too much to deal with"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "profound",
+    "definition": "showing deep thought and understanding"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "entertaining",
+    "definition": "enjoyable and amusing to watch or read"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "tragic",
+    "definition": "very sad and terrible"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "convincing",
+    "definition": "easy to believe, realistic"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "unconvincing",
+    "definition": "not believable"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "disturbing",
+    "definition": "making you feel very upset or worried"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "encouraging",
+    "definition": "giving hope that things will turn out well"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "fulfilling",
+    "definition": "making you feel satisfied and happy with what you have achieved"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3A: Opinions and reactions",
+    "word": "pathetic",
+    "definition": "so weak or poor that it makes you feel annoyed or sorry"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "drive up the wall",
+    "definition": "to make someone extremely annoyed"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "have butterflies in your stomach",
+    "definition": "to feel very nervous before something important"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "tear your hair out",
+    "definition": "to be in despair because you cannot solve a problem"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "kill yourself laughing",
+    "definition": "to find something extremely funny"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "lose your temper",
+    "definition": "to suddenly become very angry"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "be on edge",
+    "definition": "to feel nervous and unable to relax"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "kick yourself",
+    "definition": "to be angry with yourself for a silly mistake"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "be a real pain",
+    "definition": "to be very annoying"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "bursting with pride",
+    "definition": "feeling extremely proud"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "down in the dumps",
+    "definition": "feeling fed up and sad"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "make my day",
+    "definition": "to make someone feel very happy"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "on cloud nine",
+    "definition": "extremely happy"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "pumped about",
+    "definition": "really excited before an event"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "scared stiff",
+    "definition": "extremely frightened"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "shaken up",
+    "definition": "shocked and upset by a bad experience"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3B: Idiomatic phrases: emotions",
+    "word": "sick to death of",
+    "definition": "completely fed up with"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "persuade",
+    "definition": "to make someone agree to do something by giving reasons"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "persuasion",
+    "definition": "the act of getting someone to do something by giving reasons"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "motivate",
+    "definition": "to give someone the enthusiasm or reason to do something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "motivation",
+    "definition": "the wish or reason to do something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "manipulate",
+    "definition": "to trick someone in order to persuade them"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "manipulation",
+    "definition": "the act of tricking someone to get what you want"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "pressurise",
+    "definition": "to persuade someone using strong or aggressive arguments"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "pressure",
+    "definition": "strong persuasion to make someone do something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "coax",
+    "definition": "to persuade someone gently"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "coaxing",
+    "definition": "gentle persuasion"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "drive",
+    "definition": "to be the reason why someone does something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "entice",
+    "definition": "to persuade someone gently by offering something attractive"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "reason with",
+    "definition": "to use logical arguments to persuade someone"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "win over",
+    "definition": "to gradually get someone to accept your opinion"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3C: Persuading and motivating",
+    "word": "carrot and stick",
+    "definition": "a way of getting results using both rewards and punishments"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3D: Describing inspiring people",
+    "word": "strive",
+    "definition": "to make a great effort"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3D: Describing inspiring people",
+    "word": "humble",
+    "definition": "from a low social class or position"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3D: Describing inspiring people",
+    "word": "encouraging",
+    "definition": "giving you confidence"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3D: Describing inspiring people",
+    "word": "limits",
+    "definition": "the edges of your ability"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3D: Describing inspiring people",
+    "word": "authentically",
+    "definition": "being yourself and not what others expect"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3D: Describing inspiring people",
+    "word": "enthusiastic",
+    "definition": "showing a lot of interest or excitement"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3D: Describing inspiring people",
+    "word": "rub off on",
+    "definition": "to be passed on to another person"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 3D: Describing inspiring people",
+    "word": "understanding",
+    "definition": "aware of other people's feelings"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Rules",
+    "word": "restrict",
+    "definition": "to limit the amount or number of something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Rules",
+    "word": "prohibit",
+    "definition": "to officially forbid something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Rules",
+    "word": "eliminate",
+    "definition": "to get rid of something completely"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Rules",
+    "word": "implement",
+    "definition": "to put a plan or rule into action"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Rules",
+    "word": "impose",
+    "definition": "to force people to accept a rule or system"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Rules",
+    "word": "regulate",
+    "definition": "to control something by rules"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Rules",
+    "word": "deter",
+    "definition": "to make someone less likely to do something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Rules",
+    "word": "abolish",
+    "definition": "to officially end a rule or system completely"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "blurred",
+    "definition": "describing a photo in which things are unclear in shape"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "in focus",
+    "definition": "describing a photo in which everything is very clear"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "foreground",
+    "definition": "the part of a photo closest to you"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "background",
+    "definition": "the part of a photo furthest from you"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "zoom in",
+    "definition": "to make the subject of a photo seem bigger"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "zoom out",
+    "definition": "to make the subject of a photo seem smaller"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "composition",
+    "definition": "the way in which a photo is made up"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "frame",
+    "definition": "to put a border around the subject of a photo"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "shot",
+    "definition": "an informal word for a photo"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "close-up",
+    "definition": "a photo taken from very near the subject"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4A: Photography",
+    "word": "pose",
+    "definition": "to sit or stand in a particular position for a photo"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4B: Advertising",
+    "word": "target",
+    "definition": "to direct advertising at particular people"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4B: Advertising",
+    "word": "merchandise",
+    "definition": "goods that are sold, such as T-shirts linked to a brand or event"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4B: Advertising",
+    "word": "slogan",
+    "definition": "a short advertising phrase that is easy to remember"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4B: Advertising",
+    "word": "billboard",
+    "definition": "a large poster advertising something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4B: Advertising",
+    "word": "go viral",
+    "definition": "to become very popular online and spread to many people"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4B: Advertising",
+    "word": "push",
+    "definition": "a big effort to achieve something, such as promoting a place"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4B: Advertising",
+    "word": "flyer",
+    "definition": "a small leaflet that contains information"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4B: Advertising",
+    "word": "hype",
+    "definition": "intensive publicity to promote something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "experienced",
+    "definition": "describing someone who knows a job well from doing it for a long time"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "inexperienced",
+    "definition": "describing someone who is new to an activity and has had little practice"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "experience",
+    "definition": "knowledge and skill gained from doing a job or activity over time"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "competent",
+    "definition": "describing someone who is able to do something well enough"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "incompetent",
+    "definition": "describing someone who lacks the ability to do a job properly"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "competence",
+    "definition": "the ability to do something well enough"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "skilled",
+    "definition": "describing someone who does something very well because of practice"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "unskilled",
+    "definition": "lacking special abilities or training for a job"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "skill",
+    "definition": "the ability to do something well, usually gained from practice"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "trained",
+    "definition": "having learned how to do a job through formal teaching"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "untrained",
+    "definition": "having had no formal teaching for a job"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "training",
+    "definition": "teaching and practice that prepare you for a job or activity"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "proficient",
+    "definition": "describing someone who is very good at doing something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "proficiency",
+    "definition": "a high level of ability in something, especially a language"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "handy",
+    "definition": "describing someone who is good at using something, such as tools"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "hopeless",
+    "definition": "extremely bad at doing something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "beyond me",
+    "definition": "too difficult for someone to do or understand"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "humble",
+    "definition": "not considering yourself or your ideas to be as important as other people's"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "brag",
+    "definition": "to talk too proudly about what you have done or own"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4C: Skills, abilities and experience",
+    "word": "humblebrag",
+    "definition": "to boast while pretending to be modest"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4D: Marketing",
+    "word": "no-frills",
+    "definition": "very plain and simple, with no extras"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4D: Marketing",
+    "word": "makeover",
+    "definition": "a change to make something look more attractive"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4D: Marketing",
+    "word": "luxurious",
+    "definition": "very expensive and of very good quality"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4D: Marketing",
+    "word": "luxury product",
+    "definition": "something very expensive and of the highest quality"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4D: Marketing",
+    "word": "status product",
+    "definition": "something people believe shows they have reached a high level in society"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4D: Marketing",
+    "word": "credibility",
+    "definition": "the quality of deserving to be trusted or believed"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4D: Marketing",
+    "word": "market research",
+    "definition": "a study to find out how successful a product might be"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 4D: Marketing",
+    "word": "aspirational product",
+    "definition": "something people feel they would like to own"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "torn between",
+    "definition": "describing someone who cannot decide because both options seem equally good"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "indecisive",
+    "definition": "describing someone who finds it hard to make decisions"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "decisive",
+    "definition": "describing someone who can make choices quickly and confidently"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "have a change of heart",
+    "definition": "to decide to do something different from what you decided earlier"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "have second thoughts",
+    "definition": "to start to doubt a decision you have already made"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "think better of",
+    "definition": "to reconsider something and decide not to do it"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "dilemma",
+    "definition": "a difficult choice where both options are equally good or bad"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "reach a decision",
+    "definition": "to finish thinking about something and decide"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "assess all possible outcomes",
+    "definition": "to think carefully about all the results a decision could have"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "on impulse",
+    "definition": "without thinking about whether it is sensible or not"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "sleep on it",
+    "definition": "to delay a decision until the next day"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5A: Decision and indecision",
+    "word": "pros and cons",
+    "definition": "the advantages and disadvantages of something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "instinct",
+    "definition": "a natural tendency that makes animals behave in a particular way"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "instinctive",
+    "definition": "describing behaviour that is natural and not learned"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "environmentalist",
+    "definition": "a person who is concerned about protecting the natural world"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "environmental",
+    "definition": "relating to the natural world and the damage done to it"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "conservationist",
+    "definition": "a person who works to protect animals and the natural world"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "conserve",
+    "definition": "to protect something from damage or loss"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "conservation",
+    "definition": "the protection of animals, plants and natural places"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "poach",
+    "definition": "to kill animals illegally"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "poacher",
+    "definition": "a person who illegally kills wild animals"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "reproduce",
+    "definition": "to produce young animals"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "reproduction",
+    "definition": "the process by which animals produce young"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "reproductive",
+    "definition": "relating to the production of young animals"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "breed",
+    "definition": "to produce young animals, or to keep animals to produce young"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "breeder",
+    "definition": "a person who keeps animals in order to produce young ones"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "migrate",
+    "definition": "to travel long distances as part of normal life, e.g. in winter"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "migration",
+    "definition": "a regular journey made by animals over long distances"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "migratory",
+    "definition": "describing animals that travel long distances each year"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "migrant",
+    "definition": "a person or animal that moves from one place to another"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "game",
+    "definition": "animals that are hunted and killed for sport"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "predator",
+    "definition": "an animal that kills and eats other animals for food"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "predatory",
+    "definition": "describing an animal that hunts and kills other animals"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "prey on",
+    "definition": "to hunt and eat other animals"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5B: The natural world",
+    "word": "ecosystem",
+    "definition": "all the animals and plants that live in a particular habitat"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "deforestation",
+    "definition": "the cutting or burning of all trees in an area"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "welfare",
+    "definition": "a person's health and happiness"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "neglected",
+    "definition": "not looked after or paid enough attention"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "landfill site",
+    "definition": "a place where rubbish is buried under the ground"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "sleep rough",
+    "definition": "to spend the night outdoors because you have no home"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "diversity",
+    "definition": "a range of different people"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "hardship",
+    "definition": "something that makes your life difficult, e.g. lack of money"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "equal opportunities",
+    "definition": "the same chances for everyone in employment"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "fossil fuel",
+    "definition": "coal and gas, for example"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "shelter",
+    "definition": "a place that provides safety and somewhere to sleep"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "climate change",
+    "definition": "the gradual warming of the Earth caused by human activity"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "renewable energy",
+    "definition": "power from sources such as wind or sun that never run out"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "recyclable",
+    "definition": "describing material that can be treated and used again"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "homelessness",
+    "definition": "the problem of people having nowhere to live"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "inequality",
+    "definition": "an unfair situation in which some people have more than others"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "equality",
+    "definition": "a situation in which everyone has the same rights and chances"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "disadvantaged",
+    "definition": "describing people who have fewer chances because they are poor"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "jobless",
+    "definition": "describing someone who has no work"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "non-profit",
+    "definition": "describing an organisation that uses its money to help others, not to make gain"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "contaminated",
+    "definition": "made dirty or harmful by adding a poisonous substance"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "greenhouse gas",
+    "definition": "a gas that traps heat in the atmosphere and warms the planet"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "toxin",
+    "definition": "a poisonous substance"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "emit",
+    "definition": "to send out gas, heat or light into the air"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "absorb",
+    "definition": "to take in a liquid, gas or heat"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "campaign",
+    "definition": "a series of activities intended to achieve a social or political aim"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "fundraiser",
+    "definition": "an event held to collect money for a good cause"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "advocate",
+    "definition": "to publicly support an idea or a plan"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5C: Social and environmental issues",
+    "word": "activist",
+    "definition": "a person who takes part in action to bring about social change"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5D: Habits",
+    "word": "creature of habit",
+    "definition": "someone who follows the same routines every day"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5D: Habits",
+    "word": "plan ahead",
+    "definition": "to think about things in detail before they happen"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5D: Habits",
+    "word": "back-up plan",
+    "definition": "an alternative approach if a situation changes"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5D: Habits",
+    "word": "stuck in a rut",
+    "definition": "in a situation where you are unable or unwilling to try new things"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5D: Habits",
+    "word": "sense of comfort",
+    "definition": "a feeling of calm and lack of stress"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 5D: Habits",
+    "word": "go outside your comfort zone",
+    "definition": "to do something unfamiliar that makes you slightly nervous"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6A: Algorithms",
+    "word": "process",
+    "definition": "to deal with information, especially large amounts of data"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6A: Algorithms",
+    "word": "input",
+    "definition": "to put information into a computer"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6A: Algorithms",
+    "word": "miscalculate",
+    "definition": "to arrive at an incorrect result when working something out"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6A: Algorithms",
+    "word": "forecast",
+    "definition": "to predict something that will happen in the future"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6A: Algorithms",
+    "word": "output",
+    "definition": "to produce information or results, for example from a computer program"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6A: Algorithms",
+    "word": "generate",
+    "definition": "to produce information after analysing data"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6A: Algorithms",
+    "word": "dictate",
+    "definition": "to control or decide what will happen"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6A: Algorithms",
+    "word": "determine",
+    "definition": "to influence or decide how something turns out"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6A: Algorithms",
+    "word": "reinforce",
+    "definition": "to make a feeling or belief stronger"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6A: Algorithms",
+    "word": "categorise",
+    "definition": "to decide which group a person or thing belongs in"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "assumption",
+    "definition": "a belief that something is true even though you are not certain"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "presume",
+    "definition": "to think something is true even though you are not certain"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "mistaken",
+    "definition": "describing someone who is incorrect about something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "off by",
+    "definition": "incorrect by a particular amount, for example in a measurement"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "by mistake",
+    "definition": "in a way that was unplanned or unintended"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "accidentally",
+    "definition": "without meaning to do it"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "mistakenly",
+    "definition": "in a way that was wrong"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "slip up",
+    "definition": "to make a mistake"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "mistake for",
+    "definition": "to wrongly think that someone or something is someone or something else"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "mislead",
+    "definition": "to make someone believe something that is not true"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Talking about mistakes",
+    "word": "rectify",
+    "definition": "to correct something that is wrong"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Phrases with right and wrong",
+    "word": "in the right",
+    "definition": "having the best reasons or arguments in a disagreement"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Phrases with right and wrong",
+    "word": "rub up the wrong way",
+    "definition": "to annoy somebody without intending to"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Phrases with right and wrong",
+    "word": "get into the wrong hands",
+    "definition": "to be discovered by someone who may want to cause harm"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Phrases with right and wrong",
+    "word": "on the right track",
+    "definition": "likely to lead to a correct or successful result"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Phrases with right and wrong",
+    "word": "get the wrong end of the stick",
+    "definition": "to misunderstand a situation"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Phrases with right and wrong",
+    "word": "go right",
+    "definition": "to succeed or happen correctly"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Phrases with right and wrong",
+    "word": "go wrong",
+    "definition": "to fail or happen incorrectly"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6B: Phrases with right and wrong",
+    "word": "put right",
+    "definition": "to make a situation better"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "luxurious",
+    "definition": "describing something very comfortable and expensive"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "cosy",
+    "definition": "describing a small place that is warm and comfortable"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "derelict",
+    "definition": "describing a building in very bad condition because nobody looks after it"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "rotten",
+    "definition": "describing wood or food that has decayed and become weak"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "cracks",
+    "definition": "thin lines where something such as a wall has started to break"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "mould",
+    "definition": "a green or black fungus that grows on damp walls or food"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "damp",
+    "definition": "slightly wet, especially in a way that is unpleasant"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "in ruins",
+    "definition": "describing a building that has fallen down or is badly damaged"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "overlook",
+    "definition": "to have a view of something from a high place"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "run-down",
+    "definition": "in poor condition because it has not been looked after"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "cramped",
+    "definition": "describing a place that is too small, with not enough room to move"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "crumbling",
+    "definition": "describing an old building that is falling to pieces"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "dark",
+    "definition": "with very little light"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "dim",
+    "definition": "not bright and rather gloomy"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "filthy",
+    "definition": "extremely dirty"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "chilly",
+    "definition": "quite cold, in an unpleasant way"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6C: Buildings and homes",
+    "word": "muddy",
+    "definition": "covered with wet, sticky earth"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "virtual pa",
+    "definition": "a digital secretary"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "unified",
+    "definition": "made into one single system or whole"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "integrate",
+    "definition": "to combine different things so that they work together as one system"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "sync",
+    "definition": "to make devices or files share the same up-to-date information"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "wirelessly",
+    "definition": "without the need for cables"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "in real time",
+    "definition": "as fast as information arrives"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "in development",
+    "definition": "being created"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "print",
+    "definition": "to produce a document or report on paper"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "put",
+    "definition": "to set a phone to a mode such as airplane mode or silent mode"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "adjust",
+    "definition": "to change settings, a clock or the volume so they work how you want"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "update",
+    "definition": "to install the latest version of an app or software"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "recharge",
+    "definition": "to put power back into a battery that is low"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "drain",
+    "definition": "to use up the power of a battery"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "jam",
+    "definition": "to get stuck, as a printer does when too much paper is put in"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 6D: Technology",
+    "word": "disable",
+    "definition": "to turn off a feature or setting so that it does not function"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7A: Explaining meaning",
+    "word": "sum up",
+    "definition": "to give the main points of something in a short way"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7A: Explaining meaning",
+    "word": "spell out",
+    "definition": "to explain something in a very clear and detailed way"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7A: Explaining meaning",
+    "word": "signify",
+    "definition": "to be a sign of something or to mean it"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7A: Explaining meaning",
+    "word": "capture",
+    "definition": "to express the essential quality of something accurately"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7A: Explaining meaning",
+    "word": "define",
+    "definition": "to say exactly what a word or idea means"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7A: Explaining meaning",
+    "word": "illustrate",
+    "definition": "to make a point clearer by giving examples"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7A: Explaining meaning",
+    "word": "specify",
+    "definition": "to state something clearly and exactly"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7A: Explaining meaning",
+    "word": "convey",
+    "definition": "to communicate an idea or feeling to someone"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "fad",
+    "definition": "something that people like or do for a short time"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "explode",
+    "definition": "to increase dramatically and suddenly, like a bomb"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "surge",
+    "definition": "to increase dramatically in a sudden wave"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "decline",
+    "definition": "to decrease gradually in number or popularity"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "shrink",
+    "definition": "to decrease in size or amount"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "remain steady",
+    "definition": "to stay the same"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "consistent",
+    "definition": "always happening in the same way"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "evolution",
+    "definition": "the change of something over time"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "shift",
+    "definition": "to change position, opinion or direction"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "switch",
+    "definition": "to change from one thing to a different one"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "transform",
+    "definition": "to change completely from one thing into another"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "revert",
+    "definition": "to return to something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Trends",
+    "word": "catalyst",
+    "definition": "the cause of a change"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "vegetarian",
+    "definition": "a person who does not eat meat"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "vegan",
+    "definition": "a person who avoids all animal-related products"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "diet",
+    "definition": "the types of food that a person usually eats"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "calorie",
+    "definition": "a unit for measuring the energy that food gives you"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "nutrient",
+    "definition": "a substance in food that your body needs to stay healthy"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "cholesterol",
+    "definition": "a fatty substance that can build up in the blood"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "binge on",
+    "definition": "to eat too much of something in a short time"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "junk food",
+    "definition": "unhealthy food such as burgers and chips"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "grab a snack",
+    "definition": "to eat something small quickly between meals"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "in season",
+    "definition": "describing fruit and vegetables that are ready to harvest at this time of year"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "out of season",
+    "definition": "describing fruit and vegetables that are not naturally available at this time of year"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7B: Food and drink",
+    "word": "organic",
+    "definition": "describing food grown without artificial chemicals"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Shopping",
+    "word": "second-hand",
+    "definition": "describing something that has had a previous owner"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Shopping",
+    "word": "costly",
+    "definition": "describing something that is expensive"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Shopping",
+    "word": "trendy",
+    "definition": "describing something that is fashionable"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Shopping",
+    "word": "classy",
+    "definition": "describing something that is fashionable and expensive"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Shopping",
+    "word": "fancy",
+    "definition": "describing something expensive and fashionable, often with a fine design"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Shopping",
+    "word": "shabby",
+    "definition": "describing something in bad condition after a lot of use"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Shopping",
+    "word": "decent",
+    "definition": "describing something of a good enough quality"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Shopping",
+    "word": "vintage",
+    "definition": "describing something old but of high quality"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Describing clothes",
+    "word": "matching",
+    "definition": "describing items that have the same colour or style as each other"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Describing clothes",
+    "word": "chic",
+    "definition": "describing clothes that are elegant and fashionable"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Describing clothes",
+    "word": "dull",
+    "definition": "describing a colour or clothing that is boring and not bright"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Describing clothes",
+    "word": "striped",
+    "definition": "describing cloth that has lines of different colours"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Describing clothes",
+    "word": "scruffy",
+    "definition": "describing clothes that are untidy and not well looked after"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Describing clothes",
+    "word": "waterproof",
+    "definition": "describing clothing that does not let rain through"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Describing clothes",
+    "word": "loud",
+    "definition": "describing clothes with very bright colours or patterns that attract attention"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7C: Describing clothes",
+    "word": "baggy",
+    "definition": "describing clothes that fit loosely"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7D: Memories",
+    "word": "nostalgic",
+    "definition": "feeling happy and a little sad when thinking about the past"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7D: Memories",
+    "word": "take back",
+    "definition": "to make you remember a past time very strongly"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7D: Memories",
+    "word": "remind of",
+    "definition": "to make you remember someone or something"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7D: Memories",
+    "word": "bring back memories",
+    "definition": "to make you remember things from the past"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7D: Memories",
+    "word": "transport back",
+    "definition": "to make you feel as if you are in a past time"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7D: Memories",
+    "word": "recapture",
+    "definition": "to experience a past feeling again"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7D: Memories",
+    "word": "relive",
+    "definition": "to experience something from the past again in your mind"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7D: Memories",
+    "word": "reminisce",
+    "definition": "to talk or think about enjoyable times in the past"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 7D: Memories",
+    "word": "recreate",
+    "definition": "to make something from the past exist again"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "tranquillity",
+    "definition": "a state of being peaceful"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "surveillance",
+    "definition": "the act of watching people"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "greed",
+    "definition": "a selfish desire for more, for example of power or money"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "curfew",
+    "definition": "a time when people must be inside their homes"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "harmony",
+    "definition": "a situation in which people live together in peace"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "paranoia",
+    "definition": "an unreasonable belief that you cannot trust other people"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "justice",
+    "definition": "a situation in which people are treated fairly"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "social unrest",
+    "definition": "protests or violent behaviour by groups of people"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "paradise",
+    "definition": "an extremely pleasant place"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "idealism",
+    "definition": "an unrealistic belief in perfection"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "innocence",
+    "definition": "the lack of knowledge of bad things"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8A: Dystopian and utopian societies",
+    "word": "oppression",
+    "definition": "a situation in which a group of people are treated unfairly"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "monitor",
+    "definition": "to check something regularly over a period of time"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "convert",
+    "definition": "to change something into a different form"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "activate",
+    "definition": "to make a device or process start working"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "eliminate",
+    "definition": "to get rid of something completely"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "modify",
+    "definition": "to change something slightly, usually to improve it"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "recharge",
+    "definition": "to put electrical power back into a battery"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "generate",
+    "definition": "to produce energy such as heat or electricity"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "detect",
+    "definition": "to notice or discover something that is hard to see"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "emit",
+    "definition": "to send out gas, light, heat or sound"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "revolutionise",
+    "definition": "to change something completely and in a very important way"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "hand-held",
+    "definition": "able to be operated while you hold it as you move around"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "user-friendly",
+    "definition": "simple to understand and use"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "energy-efficient",
+    "definition": "not using very much energy"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "state-of-the-art",
+    "definition": "very modern"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "recyclable",
+    "definition": "able to be used again or converted into new products"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8B: Science and technology",
+    "word": "hazardous",
+    "definition": "dangerous"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "expenditure",
+    "definition": "the amount of money you spend"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "put aside",
+    "definition": "to keep money for the future instead of spending it"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "essentials",
+    "definition": "things that you really need to buy, such as food"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "allowance",
+    "definition": "an amount of money that you can spend"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "stingy",
+    "definition": "unwilling to spend or give away money"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "steady",
+    "definition": "describing a job that is regular and secure"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "frugal",
+    "definition": "careful about how much money you spend"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "splash out",
+    "definition": "to spend a lot of money on something expensive"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "blow",
+    "definition": "to spend all your money quickly and carelessly"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "overdraft",
+    "definition": "a negative amount of money in your bank account"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "overpriced",
+    "definition": "describing something that costs more than it is worth"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "economical",
+    "definition": "describing something that costs little to use"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "cost-effective",
+    "definition": "describing something that gives good value for the money spent"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "pricey",
+    "definition": "describing something that is expensive"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "complimentary",
+    "definition": "describing something that is given free of charge"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8C: Money",
+    "word": "discounted",
+    "definition": "describing something sold at a lower price than usual"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8D: Machines",
+    "word": "delivery bot",
+    "definition": "a machine that looks like a human and delivers parcels"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8D: Machines",
+    "word": "shuttle",
+    "definition": "a spacecraft that makes regular journeys to and from the same destination"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8D: Machines",
+    "word": "robot",
+    "definition": "a machine controlled by a computer that does some of the work of a person"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8D: Machines",
+    "word": "fully automated",
+    "definition": "using only machines, not humans"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8D: Machines",
+    "word": "scan",
+    "definition": "to read information on something using a special device"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8D: Machines",
+    "word": "conveyor",
+    "definition": "a moving part of a machine that you put things on to carry them along"
+  },
+  {
+    "book": "Speak Out B2+",
+    "topic": "Vocabulary 8D: Machines",
+    "word": "teleport",
+    "definition": "to move something by breaking it into tiny pieces and sending it very far, very fast"
   }
 ]

@@ -11,8 +11,16 @@ export function selectRandomWords(words, quantity) {
     [selection[i], selection[j]] = [selection[j], selection[i]];
   }
 
-  const limit = Math.min(quantity, selection.length);
-  return selection.slice(0, limit);
+  // The same word can be listed under several topics: keep only one copy per puzzle.
+  const seen = new Set();
+  const unique = selection.filter((w) => {
+    if (seen.has(w.word)) return false;
+    seen.add(w.word);
+    return true;
+  });
+
+  const limit = Math.min(quantity, unique.length);
+  return unique.slice(0, limit);
 
 }
 
